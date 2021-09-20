@@ -1,0 +1,122 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background:url(../img/1.jpg) ;
+	background-repeat:no repeat ;
+	background-size: cover;
+	font-family: 'Roboto', sans-serif;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.register{
+	width: 100%;
+	float: left;
+	color: white;
+	text-align: inherit;
+	padding: 20px 0;
+}
+
+.txt{
+	width: 50%;
+	float: left;
+	text-transform: capitalize;
+	margin-top: 73px;
+}
+
+.txt h2{
+
+font-size: 23px;
+
+margin: 11px 0px;
+}
+
+.p1{
+	
+margin: 24px auto;
+}
+
+.txt p{ 
+
+}
+
+
+
+
+.btn{
+
+background: #00f3ff;
+
+padding: 8px 14px;
+
+color: white;
+
+margin-top: 20px;
+
+border-radius: 23px;
+
+border: none;
+}
+
+.formdiv{
+	width: 50%;
+	float: left;
+
+}
+
+.form{
+
+width: 50%;
+
+float: left;
+
+text-transform: capitalize;
+
+margin-top: 73px;
+
+background: #00adff;
+
+text-align: center;
+
+margin: 66px 17px;
+
+padding: 0 27px;
+}
+
+.form h2{
+
+padding: 11px 0px;
+}
+
+.form p{
+	
+margin: 15px 0;
+}
+
+.formcontrol{
+
+padding: 4px 11px;
+
+margin: 2px 0px;
+}
+
+.btn2{
+	
+margin-top: 5px;
+	
+background: blue;
+	
+color: white;
+	
+padding: 8px 54px;
+	
+border: none;
+	
+margin-bottom: 29px;
+}
